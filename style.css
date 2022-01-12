@@ -1,0 +1,35 @@
+p{
+	margin: 30px;
+	padding: 80px;
+}
+ 
+.one{
+	background-color: rgb(252, 186, 3);
+}
+.two{
+	background-color: rgb(3, 19, 252);
+}
+.three{
+	background-color: rgb(252, 3, 3);
+}
+.four{
+	background-color: #589154
+}
+.five{
+	background-color: #00f7ff
+}
+.six{
+	background-color: rgb(255, 0, 0);
+}
+.seven{
+	background-color: rgb(251, 255, 0);
+}
+.eight{
+	background-color: rgb(21, 0, 255);
+}
+.nine{
+	background-color: rgb(54, 31, 31);
+   }
+.ten{
+	background-color: rgb(240, 165, 165);
+	   }
