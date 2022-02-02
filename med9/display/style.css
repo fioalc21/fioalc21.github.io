@@ -1,0 +1,50 @@
+h2{
+	font-size: 25px;
+    padding: 30px;
+    background-color: rgb(215,197,567);
+    display:inline-block;
+}
+
+.blue{
+	background-color: blue;
+	font-size: 30px;
+
+}
+
+.green{
+	background-color: green;
+	font-size: 6px; 
+}
+
+
+
+a {
+	display: block;
+	padding: 30px;
+	margin: 10px;
+	font-size: 30px;
+	border: 3x solid blue;
+	background-color: lightblue;
+}
+
+ul{
+	display: block;
+	background-color: red;
+}
+
+h1{
+	font-size: 25px;
+    padding: 30px;
+    background-color: rgb(835,997,187);
+    display:inline-block;
+}
+
+
+h3{
+	font-size: 25px;
+    padding: 30px;
+    background-color: rgb(191,999,887);
+    display:inline-block;
+}
+body{
+	background:linear-gradient(90deg, rgba(36,0,12,1) 11%, rgba(11,121,9,1) 46%, rgba(0,212,255,1) 100%);
